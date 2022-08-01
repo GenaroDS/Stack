@@ -16,6 +16,7 @@ public class Pile {
     public void pop() {
         if (this.top > 0) {
             this.top--;
+            System.out.println("Top of pile poped!");
         } else {
             System.out.println("The pile is empty."); 
         }
