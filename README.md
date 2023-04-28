@@ -1,19 +1,12 @@
-## Getting Started
+# Stack
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project is a simple implementation of a Stack data structure in Java. The Stack is a linear data structure which follows the Last-In-First-Out (LIFO) principle. The last element added is the first one to be removed. It consist of one class called Stack, it has method for add(push()), delete(pop()), check if empty(check()), and show the pile(show()). You can see it's functionality below:  
 
-## Folder Structure
+## Screenshots
 
-The workspace contains two folders by default, where:
+<p align="center">
+  <img src="screenshots/stack1.png" />
+  <img src="screenshots/stack2.png"  /> 
+  <img src="screenshots/stac31.png"  /> 
+</p>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-#SimplePile
