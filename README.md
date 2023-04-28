@@ -7,11 +7,16 @@ It consist of one class called Stack, it has method for add(push()), delete(pop(
 
 ## Screenshots
 
-The first screenshot shows the stack, on the second we use the pop() method twice, and then we use push() twice to add values on the top.
+We show the stack:
 
-<p align="center">
   <img src="screenshots/stack1.png" />
+  
+Then we use the pop() method twice:
+
   <img src="screenshots/stack2.png"  /> 
+
+Finnaly we use push() twice to add values on the top.
+  
   <img src="screenshots/stack3.png"  /> 
-</p>
+
 
