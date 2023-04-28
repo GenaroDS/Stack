@@ -7,6 +7,6 @@ This project is a simple implementation of a Stack data structure in Java. The S
 <p align="center">
   <img src="screenshots/stack1.png" />
   <img src="screenshots/stack2.png"  /> 
-  <img src="screenshots/stac31.png"  /> 
+  <img src="screenshots/stack3.png"  /> 
 </p>
 
